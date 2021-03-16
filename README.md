@@ -7,6 +7,5 @@ Allow users to create and share small contact and information cards for themselv
 
 - Python
 - Django
-- Postgresql
 - JavaScript
 - React.js
