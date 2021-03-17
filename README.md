@@ -9,3 +9,4 @@ Allow users to create and share small contact and information cards for themselv
 - Django
 - JavaScript
 - React.js
+- Next.js
