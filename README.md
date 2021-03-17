@@ -7,6 +7,7 @@ Allow users to create and share small contact and information cards for themselv
 
 - Python
 - Django
+- Wagtail
 - JavaScript
 - React.js
 - Next.js
